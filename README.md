@@ -11,7 +11,7 @@ Ubeyid is my name coding is my game and I am student
 * 🚀  I'm currently working on [MERN stack chat app](http://github.com/ubeyidah/chat-app)
 * 🧠  I'm learning express
 * 🤝  I'm open to collaborating on MERN stack projects
-* ⚡  I live coding
+* ⚡  I like coding
 
 <a href="https://www.github.com/ubeyidah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ubeyidah?logo=github&style=for-the-badge&color=22c55e&labelColor=0f172a" /></a>
