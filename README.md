@@ -8,7 +8,7 @@ Ubeyid is my name coding is my game and I am student
 
 * 🌍  I'm based in Ethiopia
 * ✉️  You can contact me at [ubeyidah@gmail.com](mailto:ubeyidah@gmail.com)
-* 🚀  I'm currently working on [MERN stack chat app](http://github.com/ubeyidah/chat-app)
+* 🚀  I'm currently working on [MERN stack PMS](http://github.com/ubeyidah/chat-app)
 * 🧠  I'm learning express
 * 🤝  I'm open to collaborating on MERN stack projects
 * ⚡  I like coding
