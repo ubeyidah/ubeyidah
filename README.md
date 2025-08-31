@@ -16,6 +16,8 @@ Ecosystem: Git, Monorepo setups, Vercel
 
 Workflow: Arch Linux + Hyprland, VS Code
 
+<p> <img src="https://github-readme-stats.vercel.app/api?username=ubeyidah&show_icons=true&theme=gotham" alt="ubeyidah" />
+
 🤝 Always open to collaboration and new challenges. Let’s build something great together!
 
 ✨ Always building. Always learning. Always sharing.
