@@ -14,9 +14,10 @@ Web & Mobile: Next.js, React, Node.js, React Native, Expo
 
 Ecosystem: Git, Monorepo setups, Vercel
 
-Workflow: Arch Linux + Hyprland, VS Code
+Workflow: Arch Linux + Hyprland, VS Code, CICD Github Actions
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=ubeyidah&show_icons=true&theme=gotham" alt="ubeyidah" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=ubeyidah&show_icons=true&theme=merko" alt="ubeyidah" />
+
 
 🤝 Always open to collaboration and new challenges. Let’s build something great together!
 
