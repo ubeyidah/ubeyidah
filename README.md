@@ -1,4 +1,4 @@
-Hello, I’m Ubeyidah
+## Hello, I’m Ubeyidah
 
 Building the future, one commit at a time.
 
@@ -17,4 +17,5 @@ Ecosystem: Git, Monorepo setups, Vercel
 Workflow: Arch Linux + Hyprland, VS Code
 
 🤝 Always open to collaboration and new challenges. Let’s build something great together!
+
 ✨ Always building. Always learning. Always sharing.
