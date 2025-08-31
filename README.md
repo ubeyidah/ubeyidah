@@ -8,13 +8,13 @@ I’m a young student and developer who enjoys turning ideas into real projects 
 
 🛠️ Tech & Tools
 
-Core: TypeScript, JavaScript, Python
+⚡ **Core**: TypeScript · JavaScript · Python
 
-Web & Mobile: Next.js, React, Node.js, React Native, Expo
+🌐 **Web & Mobile**: Next.js · React · Node.js · React Native · Expo
 
-Ecosystem: Git, Monorepo setups, Vercel
+🛠️ **Ecosystem: Git** · Monorepo setups · Vercel
 
-Workflow: Arch Linux + Hyprland, VS Code, CICD Github Actions
+🖥️ **Workflow**: Arch Linux + Hyprland · VS Code · CI/CD (GitHub Actions)
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=ubeyidah&show_icons=true&theme=merko" alt="ubeyidah" />
 
