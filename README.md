@@ -4,30 +4,21 @@ Building the future, one commit at a time.
 
 💼 About Me
 
-I’m a young student and developer who enjoys turning ideas into real projects from web apps to mobile tools. I focus on building with clean, practical code while constantly exploring better ways to solve problems.
+I’m a young student and developer based in Ethiopia, turning ideas into real projects across web, mobile, and AI systems, including intelligent tools and agents. I focus on clean, practical code and continuous improvement, guided by discipline, curiosity, and values grounded in Islam.
 
 🛠️ Tech & Tools
 
-⚡ **Core**: 
-  - TypeScript 
-  - JavaScript 
-  - Python
+⚡ **Core**: TypeScript · JavaScript · Python
 
-🌐 **Web & Mobile**: 
-  - Next.js 
-  - React 
-  - Node.js 
-  - React Native 
-  - Expo
+🌐 **Web & Mobile**: Next.js · React · Node.js · Bun · React Native · Expo · trpc
 
-🛠️ **Ecosystem** 
-  - Git
-  - Monorepo setups
-  - Vercel
+🛠️ **Ecosystem** Gi · Monorepo setups · Vercel
 
-🖥️ **Workflow**: Arch Linux + Hyprland · VS Code · CI/CD (GitHub Actions)
+🖥️ **Workflow**: Arch Linux(omarchy) + Hyprland · VS Code · CI/CD (GitHub Actions) · Neovim(Lazyvim)
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=ubeyidah&show_icons=true&theme=merko" alt="ubeyidah" />
+🤖 **AI Stack**: CodeRabbit · OpenCode
+
+<p> <img src="https://github-readme-stats.vercel.app/api?username=ubeyidah&show_icons=true&theme=merko" alt="ubeyidah" /> </p>
 
 
 🤝 Always open to collaboration and new challenges. Let’s build something great together!
