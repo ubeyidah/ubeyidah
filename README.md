@@ -4,7 +4,7 @@ Building the future, one commit at a time.
 
 💼 About Me
 
-I’m a young student and developer based in Ethiopia, turning ideas into real projects across web, mobile, and AI systems, including intelligent tools and agents. I focus on clean, practical code and continuous improvement, guided by discipline, curiosity, and values grounded in Islam.
+I’m student and developer based in Ethiopia, turning ideas into real projects across web, mobile, and AI systems, including intelligent tools and agents. I focus on clean, practical code and continuous improvement, guided by discipline, curiosity, and values grounded in Islam.
 
 🛠️ Tech & Tools
 
