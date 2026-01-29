@@ -24,3 +24,4 @@ I’m student and developer based in Ethiopia, turning ideas into real projects 
 🤝 Always open to collaboration and new challenges. Let’s build something great together!
 
 ✨ Always building. Always learning. Always sharing.
+![](https://hit.yhype.me/github/profile?account_id=159727076)
