@@ -10,9 +10,9 @@ I’m student and developer based in Ethiopia, turning ideas into real projects 
 
 ⚡ **Core**: TypeScript · JavaScript · Python
 
-🌐 **Web & Mobile**: Next.js · React · Node.js · Bun · React Native · Expo · trpc
+🌐 **Web & Mobile**: Next.js · React · Node.js · Bun · React Native · Expo · trpc · Express
 
-🛠️ **Ecosystem** Git · Monorepo setups · Vercel
+🛠️ **Ecosystem** Git · Monorepo setups · Vercel · Docker
 
 🖥️ **Workflow**: Arch Linux(omarchy) + Hyprland · VS Code · CI/CD (GitHub Actions) · Neovim(Lazyvim)
 
