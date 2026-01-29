@@ -12,11 +12,11 @@ I’m student and developer based in Ethiopia, turning ideas into real projects 
 
 🌐 **Web & Mobile**: Next.js · React · Node.js · Bun · React Native · Expo · trpc
 
-🛠️ **Ecosystem** Gi · Monorepo setups · Vercel
+🛠️ **Ecosystem** Git · Monorepo setups · Vercel
 
 🖥️ **Workflow**: Arch Linux(omarchy) + Hyprland · VS Code · CI/CD (GitHub Actions) · Neovim(Lazyvim)
 
-🤖 **AI Stack**: CodeRabbit · OpenCode
+🤖 **AI Stack**: CodeRabbit · OpenCode · Copilot · n8n (automation)
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=ubeyidah&show_icons=true&theme=merko" alt="ubeyidah" /> </p>
 
