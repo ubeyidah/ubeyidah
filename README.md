@@ -1,27 +1,22 @@
-## Hello, I’m <a href="https://ubeyidah.tech">Ubeyidah</a>
-
+# Hello, I'm [Ubeyidah](https://ubeyidah.tech)
 Building the future, one commit at a time.
 
-💼 About Me
+## 💼 About Me
+I'm a student and developer based in Ethiopia, building SaaS products and
+open-source tools across web, mobile, and AI systems. I focus on clean,
+practical code guided by discipline, curiosity, and faith.
 
-I’m student and developer based in Ethiopia, turning ideas into real projects across web, mobile, and AI systems, including intelligent tools and agents. I focus on clean, practical code and continuous improvement, guided by discipline, curiosity, and values grounded in Islam.
+## 🛠️ Tech & Tools
+**⚡ Core:** TypeScript · JavaScript · Python  
+**🌐 Web & Mobile:** Next.js · React · Hono · Bun · React Native · Expo · tRPC  
+**🗄️ Data:** SQLite · PostgreSQL · Drizzle ORM · PowerSync · Supabase  
+**📦 Infra:** Turborepo · Docker · Vercel · GitHub Actions  
+**🖥️ Environment:** Arch Linux + Hyprland · Neovim (LazyVim) · VS Code  
+**🤖 AI Tools:** OpenCode · CodeRabbit · n8n  
 
-🛠️ Tech & Tools
+## 🚀 What I'm Building
+- **[Studyo](https://github.com/ubeyidah/studyo)** — open-source academic dashboard for Ethiopian university students
+- **TxSure** — (stealth 👀)
 
-⚡ **Core**: TypeScript · JavaScript · Python
-
-🌐 **Web & Mobile**: Next.js · React · Node.js · Bun · React Native · Expo · trpc · Express
-
-🛠️ **Ecosystem** Git · Monorepo setups · Vercel · Docker
-
-🖥️ **Workflow**: Arch Linux(omarchy) + Hyprland · VS Code · CI/CD (GitHub Actions) · Neovim(Lazyvim)
-
-🤖 **AI Stack**: CodeRabbit · OpenCode · Copilot · n8n (automation)
-
-<p> <img src="https://github-readme-stats.vercel.app/api?username=ubeyidah&show_icons=true&theme=merko" alt="ubeyidah" /> </p>
-
-
-🤝 Always open to collaboration and new challenges. Let’s build something great together!
-
+## 🤝 Open to collaboration and new challenges. Let's build something great.
 ✨ Always building. Always learning. Always sharing.
-![](https://hit.yhype.me/github/profile?account_id=159727076)
