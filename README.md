@@ -15,7 +15,7 @@ practical code guided by discipline, curiosity, and faith.
 **🤖 AI Tools:** OpenCode · CodeRabbit · n8n  
 
 ## 🚀 What I'm Building
-- **[Studyo](https://github.com/ubeyidah/studyo)** — open-source academic dashboard for Ethiopian university students
+- **[waitkit](https://waitkit.dev)** — WaitKit is a waitlist-as-a-service platform. Instead of building and maintaining your own backend to collect email signups, you create a project, integrate via our SDK or REST API, and start collecting subscribers from a dashboard.
 - **TxSure** — (stealth 👀)
 
 ## 🤝 Open to collaboration and new challenges. Let's build something great.
