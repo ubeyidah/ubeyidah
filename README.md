@@ -1,22 +1,22 @@
-# Hello, I'm [Ubeyidah](https://ubeyidah.tech)
-Building the future, one commit at a time.
+# Hi, I'm Ubeyidah 
 
-## 💼 About Me
-I'm a student and developer based in Ethiopia, building SaaS products and
-open-source tools across web, mobile, and AI systems. I focus on clean,
-practical code guided by discipline, curiosity, and faith.
+I design software systems, automate architectures, and build open-source tools across web and mobile platforms. Driven by discipline and a passion for building functional solutions.
 
-## 🛠️ Tech & Tools
-**⚡ Core:** TypeScript · JavaScript · Python  
-**🌐 Web & Mobile:** Next.js · React · Hono · Bun · React Native · Expo · tRPC  
-**🗄️ Data:** SQLite · PostgreSQL · Drizzle ORM · PowerSync · Supabase  
-**📦 Infra:** Turborepo · Docker · Vercel · GitHub Actions  
-**🖥️ Environment:** Arch Linux + Hyprland · Neovim (LazyVim) · VS Code  
-**🤖 AI Tools:** OpenCode · CodeRabbit · n8n  
+[Website](https://ubeyidah.tech) · [WaitKit](https://waitkit.dev)
 
-## 🚀 What I'm Building
-- **[waitkit](https://waitkit.dev)** — WaitKit is a waitlist-as-a-service platform. Instead of building and maintaining your own backend to collect email signups, you create a project, integrate via our SDK or REST API, and start collecting subscribers from a dashboard.
-- **TxSure** — (stealth 👀)
+---
 
-## 🤝 Open to collaboration and new challenges. Let's build something great.
-✨ Always building. Always learning. Always sharing.
+## ⚡ Current Projects
+
+### 📦 [WaitKit](https://waitkit.dev)
+> **Waitlist-as-a-service platform for developers.** 
+> Create a project, integrate the REST API or SDK, and track early adopters from a clean dashboard. Built with Next.js, Drizzle, and Sentry.
+
+### 🔒 txsure
+> An open-source, local human in the loop payment verification framework designed as a scalable monorepo.
+
+---
+
+## 💻 Environment & Tools
+* **Core Stack:** Next.js, Hono, Bun, PostgreSQL, Drizzle ORM, tRPC
+* **OS & Editor:** Arch Linux + Hyprland | Neovim (LazyVim)
